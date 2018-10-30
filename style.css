@@ -1,0 +1,66 @@
+td, th{
+  border: 1px solid black; 
+}
+td{
+  padding: 20px;
+}
+#cell_1{
+  background-color: black;
+}
+#cell_2{
+  background-color: pink;
+}
+#cell_3{
+  background-color: grey;
+}
+#cell_4{
+  background-color: blue;
+}
+#cell_5{
+  background-color: black;
+}
+#cell_6{
+  background-color: yellow;
+}
+#cell_7{
+  background-color: black;
+}
+#cell_8{
+  background-color: blue;
+}
+#cell_9{
+  background-color: black;
+}
+#cell_10{
+  background-color: red;
+}
+#cell_11{
+  background-color: blue;
+}
+#cell_12{
+  background-color: red;
+}
+#cell_13{
+  background-color: black;
+}
+#cell_14{
+  background-color: green;
+}
+#cell_15{
+  background-color: pink;
+}
+#cell_16{
+  background-color: red;
+}
+#cell_17{
+  background-color: blue;
+}
+#cell_18{
+  background-color: yellow;
+}
+#cell_19{
+  background-color: red;
+}
+#cell_20{
+  background-color: green;
+}
